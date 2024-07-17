@@ -77,8 +77,8 @@ ORDER BY AVG_SALARY;
 
 # SQL Cheat Sheet: Intermediate - LIKE, ORDER BY, GROUP BY
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](assests/image.png)
+![alt text](assests/image-1.png)
 
 
 # Built in DataFunctions
