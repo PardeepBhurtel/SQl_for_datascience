@@ -43,3 +43,9 @@ from dbmodule import connect
     Cursor.close()
 
 
+# SQL Cheat Sheet: Accessing Databases using Python
+![alt text](assests/access_db/image.png)
+![alt text](assests/access_db/image-1.png)
+![alt text](assests/access_db/image-2.png)
+![alt text](assests/access_db/image-4.png)
+![alt text](assests/access_db/image-3.png)
